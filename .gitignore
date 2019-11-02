@@ -72,3 +72,4 @@ dmypy.json
 .pyre/
 .idea
 *.db
+.history
